@@ -4,3 +4,5 @@ author, or bookid. And you can get the co-author network. When you run this prog
 the command line to choose what is your search option. Then you can input the keyword to 
 search book.
 The packages have been used include: requests, networks, matplotlib, json, os
+
+The data has been stored as JSON format with graphs
